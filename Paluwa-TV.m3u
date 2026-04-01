@@ -90,6 +90,12 @@ https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-name=" Zoom Global "group-title=”Music ”,Zoom Global
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
+#EXTINF:-1, Star Sports 1 HD
+http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
+
+#EXTINF:-1,ESPN
+https://iptv-org.github.io/channels/br/ESPN
+
 #EXTINF:-1,DD Arun Prabha
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
 
@@ -185,13 +191,6 @@ https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-name=" Public 4K TV "group-title=”Religious”,Aastha Prime 1 (720p)
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
-
-
-#EXTINF:-1, Star Sports 1 HD
-http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
-
-#EXTINF:-1,ESPN
-https://iptv-org.github.io/channels/br/ESPN
 
 #EXTINF:-1,DISNEY CHANNEL
 http://ptu.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
