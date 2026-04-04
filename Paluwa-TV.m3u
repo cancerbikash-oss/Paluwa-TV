@@ -1,48 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-name=" Public 4K TV "group-title=”All Channels, NEPALI”,Public 4k TV 
+#EXTINF:-1  tvg-name="Public 4K TV" group-title="NEPALI",Public 4k TV 
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
 
-#EXTINF:-1 tvg-name=" Kantipur Max TV "group-title=”All Channels, NEPALI” ,Kantipur Max 
+#EXTINF:-1 tvg-name="Kantipur Max TV" group-title="NEPALI",Kantipur Max 
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
 
-#EXTINF:-1 tvg-name=" Kantipur Max TV "group-title=”All Channels, NEPALI”,Kantipur TV 
+#EXTINF:-1 tvg-name="Kantipur TV" group-title="NEPALI",Kantipur TV 
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Capital TV "group-title=”All Channels, NEPALI”,INDIGENOUS TV
+#EXTINF:-1 tvg-name="INDIGENOUS" group-title="NEPALI",INDIGENOUS TV
 https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name=" Capital TV "group-title=”All Channels, NEPALI”, Capital TV
+#EXTINF:-1 tvg-name="Capital TV" group-title="NEPALI",Capital TV
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 
-#EXTINF:-1 tvg-name=" Mithila Nepal "group-title=”All Channels, NEPALI”, Mithila Nepal 
+#EXTINF:-1 tvg-name="Mithila Nepal" group-title="NEPALI",Mithila Nepal 
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-name=" Divya Darshan TV HD "group-title=”All Channels, NEPALI”, Divya Darshan TV HD
+#EXTINF:-1 tvg-name="Divya Darshan TV HD" group-title="NEPALI",Divya Darshan TV HD
 http://live.divyadarshantv.com/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name=" Kantipur Max 2 TV "group-title=”NEPALI”,Kantipur Max 2 
+#EXTINF:-1 tvg-name="Kantipur Max 2 TV" group-title="NEPALI",Kantipur Max 2 
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 
-#EXTINF:-1 tvg-name=" Kantipur TV HD"group-title=”All Channels, NEPALI”Kantipur TV HD
+#EXTINF:-1 tvg-name="Kantipur TV HD" group-title="NEPALI",Kantipur TV HD
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-name=" Mithila Nepal TV UHD "group-title=”All Channels, NEPALI”,Mithila Nepal TV UHD
+#EXTINF:-1 tvg-name="Mithila Nepal TV UHD" group-title="NEPALI",Mithila Nepal TV UHD
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-name=" Capital TV HD "group-title=”NEPALI”,Capital TV HD
+#EXTINF:-1 tvg-name="Capital TV HD" group-title="NEPALI",Capital TV HD
 https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
 
-#EXTINF:-1 tvg-name=" Capital TV SD "group-title=”NEPALI”,Capital TV SD
+#EXTINF:-1 tvg-name="Capital TV SD" group-title="NEPALI",Capital TV SD
 https://streaming.tvnepal.com:19360/capitaltv/360p.m3u8
 
-#EXTINF:-1 tvg-name=" Divya Darshan TV "group-title=”NEPALI | Religious”,Divya Darshan TV
+#EXTINF:-1 tvg-name="Divya Darshan TV" group-title="NEPALI", | Religious”,Divya Darshan TV
 http://live.divyadarshantv.com/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name=" Nepal 1"group-title=”NEPALI”,Nepal 1 
+#EXTINF:-1 tvg-name=" Nepal 1" group-title="NEPALI", Nepal 1 
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
 
-#EXTINF:-1 tvg-name=" & PICTURE HD "group-title=”Hindi | Movies ”,& PICTURE HD
+#EXTINF:-1 tvg-name="& PICTURE HD" group-title=”Movies”,& PICTURE HD
 http://103.161.153.165:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-name=" & PICTURE HD "group-title=”Hindi | Movies ”,Zee Bollywood
@@ -226,13 +226,13 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Shemaroo Josh "group-title="All Channels, Movies",Shemaroo Josh
+#EXTINF:-1 tvg-name="Shemaroo Josh "group-title="Movies",Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Shemaroo Bollywood "group-title="All Channels, Movies",Shemaroo Bollywood
+#EXTINF:-1 tvg-name="Shemaroo Bollywood "group-title="Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-name=" Shemaroo Marathi Ban " group-title="All Channels, Movies",Shemaroo Marathi Ban
+#EXTINF:-1 tvg-name=" Shemaroo Marathi Ban " group-title="Movies",Shemaroo Marathi Ban
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
 
 
@@ -244,23 +244,23 @@ https://mumt02.tangotv.in/B4UKADAK/index.m3u8
 https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="BigMagic.in@SD",Big Magic (576p)
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
-#EXTINF:-1 tvg-name=" B4U Bhojpuri "group-title="All Channels, Movies",B4U Bhojpuri 
+#EXTINF:-1 tvg-name=" B4U Bhojpuri "group-title="Movies",B4U Bhojpuri 
 
 https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-name=" B4U Kadak "group-title="All Channels, Movies",B4U Kadak
+#EXTINF:-1 tvg-name=" B4U Kadak "group-title="Movies",B4U Kadak
 https://mumt02.tangotv.in/B4UKADAK/index.m3u8
-#EXTINF:-1 tvg-name=" B4U Movies "group-title="All Channels, Movies",B4U Movies
+#EXTINF:-1 tvg-name=" B4U Movies "group-title="Movies",B4U Movies
 https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
-#EXTINF:-1 tvg-name=" Big Magic "group-title="All Channels, Movies",Big Magic
+#EXTINF:-1 tvg-name=" Big Magic "group-title="Movies",Big Magic
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 
-#EXTINF:-1 "The Movie Club +2"group-title="All Channels, Movies",The Movie Club +2 
+#EXTINF:-1 "The Movie Club +2"group-title="Movies",The Movie Club +2 
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
-#EXTINF:-1 "The Movie Club HD "group-title="All Channels, Movies",The Movie Club HD
+#EXTINF:-1 "The Movie Club HD "group-title="Movies",The Movie Club HD
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
 
@@ -273,7 +273,7 @@ http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playl
 
 #EXTINF:-1 tvg-id="SonyKALHindi.us@SD",Sony KAL Hindi (1080p)
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-name=" Sony KAL Hindi "group-title="All Channels, Hindi, Entertainment", Sony KAL Hindi
+#EXTINF:-1 tvg-name=" Sony KAL Hindi "group-title="Hindi, Entertainment", Sony KAL Hindi
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 Sony Aath SD
 http://103.161.153.165:8000/play/sonyatth/index.m3u8
@@ -365,3 +365,6 @@ https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1,
 #EXTINF:-1 tvg-logo="https://ntv.org.np/logo.png", Public 4K TV 
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
+
+
+
