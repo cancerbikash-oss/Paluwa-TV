@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1  tvg-name=" Public 4K TV "group-title=”All Channels, NEPALI”,Public 4k TV 
@@ -193,13 +194,13 @@ https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
 #EXTINF:-1  tvg-name=" Public 4K TV "group-title=”Religious”,Aastha Prime 1 (720p)
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 
-#EXTINF:-1,DISNEY CHANNEL
+#EXTINF:-1 DISNEY CHANNEL
 http://ptu.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 
-#EXTINF:-1,Nickelodeon Tamil
+#EXTINF:-1 Nickelodeon Tamil
 http://ptu.ridsys.in/riptv/live/NICK/index.m3u8
 
-#EXTINF:-1, Sonic
+#EXTINF:-1 Sonic
 http://103.229.254.25:7001/play/a0dl/index.m3u8
 
 #EXTINF:-1 JooMusic
@@ -360,9 +361,8 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 
+
+
 #EXTINF:-1,
 #EXTINF:-1 tvg-logo="https://ntv.org.np/logo.png", Public 4K TV 
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
-
-
-
