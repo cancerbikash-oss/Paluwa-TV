@@ -180,7 +180,7 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/maste
 #EXTINF:-1 tvg-name=" Zee Uttar Pradesh/Uttarakhand "group-title=” NEWS ”,Zee Uttar Pradesh/Uttarakhand
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 
-#EXTINF:-1 tvg-name=" Zee Rajasthan "group-title=”NEWS ”,Zee Rajasthan
+#EXTINF:-1 tvg-name=" Zee Rajasthan "group-title=”NEWS” ,Zee Rajasthan
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 
 #EXTINF:-1  tvg-name=" Public 4K TV "group-title=”Religious”,Aastha (720p)
@@ -188,6 +188,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 
 #EXTINF:-1  tvg-name=" Public 4K TV "group-title=”Religious”,Aastha Bhajan (480p)
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+
 
 #EXTINF:-1  tvg-name=" Public 4K TV "group-title=”Religious”,Aastha Prime 1 (720p)
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
@@ -200,6 +201,158 @@ http://ptu.ridsys.in/riptv/live/NICK/index.m3u8
 
 #EXTINF:-1, Sonic
 http://103.229.254.25:7001/play/a0dl/index.m3u8
+
+JooMusic
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+All Time Movies (576p)
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+
+Goldmines 
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+https://mumt04.tangotv.in/GOLDMINES/index.m3u8
+
+Goldmines 2 
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+Shemaroo TV 
+https://cdn-3.pishow.tv/live/230/master.m3u8
+
+Shemaroo Umang
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+
+Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+
+Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+Shemaroo Marathi Ban
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (576p)
+https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (576p)
+https://mumt02.tangotv.in/B4UKADAK/index.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (576p)
+https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="BigMagic.in@SD",Big Magic (576p)
+https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+B4U Bhojpuri (576p)
+https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
+B4U Kadak
+https://mumt02.tangotv.in/B4UKADAK/index.m3u8
+B4U Movies
+https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
+Big Magic
+https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+The Movie Club +2 
+https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+
+The Movie Club HD
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
+
+
+
+Discovery Kids
+http://103.161.153.165:8000/play/a05p/index.m3u8
+
+Nickelodeon
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us@SD",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+Sony KAL Hindi
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+Sony Aath SD
+http://103.161.153.165:8000/play/sonyatth/index.m3u8
+
+EXTINF:-1 tvg-id="TheQIndia.us@SD",The Q India (576p)
+https://mumt05.tangotv.in/THEQ/index.m3u8
+https://mumt05.tangotv.in/THEQ/index.m3u8
+
+Sony SAB - Tata Play 
+http://103.229.254.25:7001/play/a0db/index.m3u8
+Star Gold HD (1080p) - Tata Play 
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
+
+Zee Thirai HD
+http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI_HD/index.m3u8
+
+Zee Thirai SD
+http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8
+
+Colors Tamil SD
+http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
+
+Disney Channel
+http://ajkiptv.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
+
+Raj Musix Tamil SD
+http://ajkiptv.ridsys.in/riptv/live/RAJ_MUSIX/index.m3u8
+
+Vijay Takkar SD
+http://ajkiptv.ridsys.in/riptv/live/VIJAY_TAKKAR/index.m3u8
+
+Star Vijay HD
+http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8
+
+HISTORY
+https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
+
+Sony BBC Earth Tamil
+http://ajkiptv.ridsys.in/riptv/live/SONY_BBC_EARTH/index.m3u8
+
+Star Sports 1 Tamil HD
+http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
+
+Star Sports 1 Tamil SD
+http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8
+
+Nick Jr. SD
+http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8
+
+Hungama TV SD
+http://ajkiptv.ridsys.in/riptv/live/HUNGAMA/index.m3u8
+
+Sirippoli TV SD
+http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
+
+Isai Aruvi SD
+http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8
+
+CCTV-16 4K
+http://74.91.26.218:82/live/cctv16hd.m3u8
+
+Sky Folk TV
+https://skyfolk.mk/live.m3u8
+https://eu.live.skyfolk.mk/live.m3u8
+
+Realitatea Star 
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+
+Realitatea Sportiva
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+
+START World (Russian)
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+START Air
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+TERRA
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+НТВ
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+Ю
+https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 
 #EXTINF:-1,
 #EXTINF:-1 tvg-logo="https://ntv.org.np/logo.png", Public 4K TV 
