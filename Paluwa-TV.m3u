@@ -205,33 +205,36 @@ http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 JooMusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 All Time Movies (576p)
+#EXTINF:-1 tvg-name="All Time Movies" group-title="All Channels, Hindi, Movies",All Time Movies
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
-
-#EXTINF:-1 Goldmines 
+	
+#EXTINF:-1 tvg-name="Goldmines" group-title="All Channels, Hindi, Movies",Goldmines 
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://mumt04.tangotv.in/GOLDMINES/index.m3u8
 
-#EXTINF:-1 Goldmines 2 
+#EXTINF:-1 tvg-name=" Goldmines 2"group-title="All Channels, Hindi, Movies",Goldmines 2 
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
-#EXTINF:-1 Goldmines Movies
+#EXTINF:-1 tvg-name="Goldmines Movies" group-title="All Channels, Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+
 #EXTINF:-1 Shemaroo TV 
 https://cdn-3.pishow.tv/live/230/master.m3u8
 
 #EXTINF:-1 Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
-#EXTINF:-1 Shemaroo Josh
+#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
-#EXTINF:-1 Shemaroo Bollywood
+#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 Shemaroo Marathi Ban
+#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",Shemaroo Marathi Ban
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (576p)
 https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
@@ -241,23 +244,24 @@ https://mumt02.tangotv.in/B4UKADAK/index.m3u8
 https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="BigMagic.in@SD",Big Magic (576p)
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
-#EXTINF:-1 B4U Bhojpuri (576p)
+#EXTINF:-1 tvg-name=" B4U Bhojpuri "group-title="All Channels, Movies",B4U Bhojpuri 
+
 https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
-#EXTINF:-1 B4U Kadak
+#EXTINF:-1 tvg-name=" B4U Kadak "group-title="All Channels, Movies",B4U Kadak
 https://mumt02.tangotv.in/B4UKADAK/index.m3u8
-#EXTINF:-1 B4U Movies
+#EXTINF:-1 tvg-name=" B4U Movies "group-title="All Channels, Movies",B4U Movies
 https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
-#EXTINF:-1 Big Magic
+#EXTINF:-1 tvg-name=" Big Magic "group-title="All Channels, Movies",Big Magic
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 The Movie Club +2 
+
+#EXTINF:-1 "The Movie Club +2"group-title="All Channels, Movies",The Movie Club +2 
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
-#EXTINF:-1 The Movie Club HD
+#EXTINF:-1 "The Movie Club HD "group-title="All Channels, Movies",The Movie Club HD
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
-
 
 
 
@@ -269,7 +273,7 @@ http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playl
 
 #EXTINF:-1 tvg-id="SonyKALHindi.us@SD",Sony KAL Hindi (1080p)
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 Sony KAL Hindi
+#EXTINF:-1 tvg-name=" Sony KAL Hindi "group-title="All Channels, Hindi, Entertainment", Sony KAL Hindi
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 Sony Aath SD
 http://103.161.153.165:8000/play/sonyatth/index.m3u8
@@ -361,88 +365,4 @@ https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
 
 
-
-#EXTINF:-1 JooMusic
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="All Time Movies" group-title="All Channels, Hindi, Movies",All Time Movies
-https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
-	
-#EXTINF:-1 tvg-name="Goldmines" group-title="All Channels, Hindi, Movies",Goldmines 
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-https://mumt04.tangotv.in/GOLDMINES/index.m3u8
-
-#EXTINF:-1 tvg-name=" Goldmines 2"group-title="All Channels, Hindi, Movies",Goldmines 2 
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="All Channels, Movies",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-
-Shemaroo TV 
-https://cdn-3.pishow.tv/live/230/master.m3u8
-
-Shemaroo Umang
-https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",Shemaroo Josh
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",Shemaroo Marathi Ban
-https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (576p)
-https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (576p)
-https://mumt02.tangotv.in/B4UKADAK/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (576p)
-https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="BigMagic.in@SD",Big Magic (576p)
-https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",B4U Bhojpuri (576p)
-https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",B4U Kadak
-https://mumt02.tangotv.in/B4UKADAK/index.m3u8
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",B4U Movies
-https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",Big Magic
-https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
-
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",The Movie Club +2 
-https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
-
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",The Movie Club HD
-https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
-
-
-
-
-Discovery Kids
-http://103.161.153.165:8000/play/a05p/index.m3u8
-
-Nickelodeon
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8
-
-#EXTINF:-1 tvg-id="SonyKALHindi.us@SD",Sony KAL Hindi (1080p)
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-name=" Sony KAL Hindi "group-title="All Channels, Hindi, Entertainment",Sony KAL Hindi
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-Sony Aath SD
-http://103.161.153.165:8000/play/sonyatth/index.m3u8
-
-EXTINF:-1 tvg-id="TheQIndia.us@SD",The Q India (576p)
-https://mumt05.tangotv.in/THEQ/index.m3u8
-https://mumt05.tangotv.in/THEQ/index.m3u8
-
-Sony SAB - Tata Play 
-http://103.229.254.25:7001/play/a0db/index.m3u8
-Star Gold HD (1080p) - Tata Play 
-http://103.229.254.25:7001/play/a0dd/index.m3u8
-
-https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 
