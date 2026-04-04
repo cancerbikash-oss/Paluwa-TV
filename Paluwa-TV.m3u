@@ -227,13 +227,13 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",Shemaroo Josh
+#EXTINF:-1 tvg-name="Shemaroo Josh "group-title="All Channels, Movies",Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",Shemaroo Bollywood
+#EXTINF:-1 tvg-name="Shemaroo Bollywood "group-title="All Channels, Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-name=" All Time Movies "group-title="All Channels, Movies",Shemaroo Marathi Ban
+#EXTINF:-1 tvg-name=" Shemaroo Marathi Ban " group-title="All Channels, Movies",Shemaroo Marathi Ban
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
 
 
