@@ -45,49 +45,51 @@ https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
 #EXTINF:-1 tvg-name="& PICTURE HD" group-title=”Movies”,& PICTURE HD
 http://103.161.153.165:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-name=" & PICTURE HD "group-title=”Hindi | Movies ”,Zee Bollywood
-#EXTINF:-1 tvg-name=" & PICTURE HD "group-title=”Hindi | Movies ”,Zee Cine Classic
-#EXTINF:-1 tvg-name=" & PICTURE HD "group-title=”Hindi | Movies ”,Zee Classic – Tata Play
+#EXTINF:-1 tvg-name="Zee Bollywood" group-title=”Movies”,Zee Bollywood
+#EXTINF:-1 tvg-name="Zee Cine Classic" group-title=”Movies”,Zee Cine Classic
+#EXTINF:-1 tvg-name="Zee Classic" group-title=”Movies”,Zee Classic – Tata Play
 http://103.229.254.25:7001/play/a09w/index.m3u8
 
-#EXTINF:-1 tvg-name=" & PICTURE HD "group-title=”Hindi | Movies ”,Zee South Flix
+#EXTINF:-1 tvg-name="Zee South Flix" group-title=”Movies”,Zee South Flix
 http://103.229.254.25:7001/play/a0dp/index.m3u8
 
-#EXTINF:-1 tvg-name="ABN TV India "group-title=”Hindi | Entertainment ”,ABN TV India 
+#EXTINF:-1 tvg-name="ABN TV India" group-title=”Entertainment ”,ABN TV India 
 https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 
-#EXTINF:-1 tvg-name=" Zee Zest HD "group-title=”Hindi | Entertainment ”,Zee Zest HD – Tata Play
+#EXTINF:-1 tvg-name="Zee Zest HD" group-title=”Entertainment ”,Zee Zest HD – Tata Play
 http://103.229.254.25:7001/play/a0dp/index.m3u8 
 
-#EXTINF:-1 tvg-name=" Zee TV Canada "group-title=”Hindi | Movies ”,Zee TV Canada
+#EXTINF:-1 tvg-name="Zee TV Canada" group-title=”Hindi”,Zee TV Canada
 #EXTINF:-1 tvg-name="&TV "group-title=”Hindi | Movies ”,&TV – Tata Play
 http://103.229.254.25:7001/play/a09v/index.m3u8
 
-#EXTINF:-1 tvg-name=" &TV HD "group-title=”Hindi | Entertainment ”,&TV HD	
+#EXTINF:-1 tvg-name=" &TV HD" group-title=”Entertainment”,&TV HD	
 http://103.161.153.165:8000/play/a05c/index.m3u8
 
-#EXTINF:-1 tvg-name=" Zee Comedy Nation "group-title=”Hindi | Entertainment ”,Zee Comedy Nation
-#EXTINF:-1 tvg-name=" Zee Dil Se "group-title=”Hindi | Entertainment ”,Zee Dil Se
-#EXTINF:-1 tvg-name=" Zee Horror Nights "group-title=”Hindi | Entertainment”,Zee Horror Nights
-#EXTINF:-1 tvg-name=" Zee Bangla "group-title=”Hindi | Entertainment ”,Zee Bangla
+#EXTINF:-1 tvg-name="Zee Comedy Nation" group-title=”Entertainment ”,Zee Comedy Nation
+#EXTINF:-1 tvg-name="Zee Dil Se" group-title=”Entertainment”,Zee Dil Se
+#EXTINF:-1 tvg-name="Zee Horror Nights" group-title=”Entertainment”,Zee Horror Nights
+#EXTINF:-1 tvg-name="Zee Bangla" group-title=”Entertainment”,Zee Bangla
 http://103.229.254.25:7001/play/a06r/index.m3u8
 
-#EXTINF:-1 tvg-name=" 9XM "group-title=”Music ”,9XM
+#EXTINF:-1 tvg-name="ZOOM" group-title="MUSIC",ZOOM
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-name="9XM" group-title="MUSIC",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 
-#EXTINF:-1 tvg-name=" YRF Music 9XM "group-title=”Music ”,YRF Music
+#EXTINF:-1 tvg-name="YRF Music 9XM" group-title="MUSIC",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-name=" 9X Jalwa "group-title=”Music ”,Zoom
+#EXTINF:-1 tvg-name="9X Jalwa" group-title="MUSIC",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-name="9X Jalwa"group-title=”Music ”,9X Jalwa
+#EXTINF:-1 tvg-name="9X Jhakaas" group-title="MUSIC",9X Jhakaas
 https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 
-#EXTINF:-1 tvg-name="9X Tashan "group-title=”Music ”,9X Tashan
+#EXTINF:-1 tvg-name="9X Tashan" group-title="MUSIC",9X Tashan
 https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 
-#EXTINF:-1 tvg-name=" Zoom Global "group-title=”Music ”,Zoom Global
+#EXTINF:-1 tvg-name="Zoom Global" group-title="MUSIC",Zoom Global
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
 #EXTINF:-1, Star Sports 1 HD
