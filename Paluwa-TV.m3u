@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ap1tv" tvg-name="AP1 HD" group-title="Nepali",AP1 HD
+https://ap1tv-live.akamaized.net/hls/live/2019465/ap1tv/master.m3u8
 
 #EXTINF:-1  tvg-name="Public 4K TV" group-title="NEPALI",Public 4k TV 
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
