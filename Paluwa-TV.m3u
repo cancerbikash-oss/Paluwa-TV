@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ap1tv" tvg-name="Nepal Television HD" group-title="Nepali",NTV HD
+#EXTINF:-1 tvg-id="NepalTelevision.np@SD" tvg-name="Nepal Television HD" group-title="Nepali",NTV HD
 https://ntvedge.truestreamz.com/ntvlive/ntvnational-abr.stream/ntvlive/ntvnational406.stream/chunks.m3u8?nimblesessionid=1134670&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjYgMTE6MTY6NDggQU0maGFzaF92YWx1ZT1RT0dYUzllVjIvM0l6OEhQVjZUSkxnPT0mdmFsaWRtaW51dGVzPTE1JmlkPTE=
-#EXTINF:-1 tvg-id="ap1tv" tvg-name="NTV Plus HD" group-title="Nepali",NTV Plus HD
+#EXTINF:-1 tvg-id=",NTVPlus.np@SD" tvg-name="NTV Plus HD" group-title="Nepali",NTV Plus HD
 https://ntvedge.truestreamz.com/ntvlive/ntvplus-abr.stream/ntvlive/ntvplus406.stream/chunks.m3u8?nimblesessionid=1134674&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjYgMTE6MTg6NDIgQU0maGFzaF92YWx1ZT1CcU9qa1N2MU4wb3pDMDZtTHZ0ZlJnPT0mdmFsaWRtaW51dGVzPTE1JmlkPTE=
-#EXTINF:-1 tvg-id="ap1tv" tvg-name="NTV News HD" group-title="Nepali",NTV News HD
+#EXTINF:-1 tvg-id="NTVNews.np@SD" tvg-name="NTV News HD" group-title="Nepali",NTV News HD
 https://ntvedge.truestreamz.com/ntvlive/ntvnews-abr.stream/ntvlive/ntvnews406.stream/chunks.m3u8?nimblesessionid=1134681&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjYgMTE6MjM6MDkgQU0maGFzaF92YWx1ZT1WZlM4Tkp2T1lhWk5QV1AvV3hXU3hnPT0mdmFsaWRtaW51dGVzPTE1JmlkPTE=
-#EXTINF:-1 tvg-id="ap1tv" tvg-name="NTV Kohalpur" group-title="Nepali",NTV Kohalpur HD
+#EXTINF:-1 tvg-id="NTVKohalpur.np@SD" tvg-name="NTV Kohalpur" group-title="Nepali",NTV Kohalpur HD
 https://ntvedge.truestreamz.com/ntvlive/ntvkohalpur-abr.stream/ntvlive/ntvkohalpur406.stream/chunks.m3u8?nimblesessionid=1134678&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjYgMTE6MjE6MTQgQU0maGFzaF92YWx1ZT13cVZ4RHpDai92RVpNSGtIQkZkTnN3PT0mdmFsaWRtaW51dGVzPTE1JmlkPTE= 
-#EXTINF:-1 tvg-id="ap1tv" tvg-name="NTV Itahari" group-title="Nepali",NTV Itahari HD
+#EXTINF:-1 tvg-id="NTVItahari.np@SD" tvg-name="NTV Itahari" group-title="Nepali",NTV Itahari HD
 https://ntvedge.truestreamz.com/ntvlive/ntvithari-abr.stream/ntvlive/ntvithari406.stream/chunks.m3u8?nimblesessionid=1134683&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjYgMTE6MjQ6MTAgQU0maGFzaF92YWx1ZT1XMjhHK1lVaXlWaHVQYmpYcmZTdkpRPT0mdmFsaWRtaW51dGVzPTE1JmlkPTE= 
 #EXTINF:-1 tvg-id="ap1tv" tvg-name="AP1 HD" group-title="Nepali",AP1 HD
 https://ap1tv-live.akamaized.net/hls/live/2019465/ap1tv/master.m3u8
